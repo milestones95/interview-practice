@@ -1,0 +1,5 @@
+transaction_id,amount,currency,status,customer_email
+txn001,1500,CAD,succeeded,alice@example.com
+txn002,-50,USD,done,bob@example.com
+txn003,2000,us,pending,carol@example
+txn004,3000,EUR,done,dave@example.com,extra_field
